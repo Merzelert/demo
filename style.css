@@ -1,30 +1,5 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-#one {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 0.1rem black solid;
-    border-radius: 1rem;
-    background-color: red;
-    font-size: 1.4rem;
-    margin: auto;
-    padding: 2rem;
-    text-align: center;
-    width: 15rem;
-    position: relative;
-    top: 3rem;
-    }
-
-#two {
-    max-height: none;
-    width: 75%;
-    margin: auto;
-    padding: 4rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 0.1rem black solid;
-    background-color: rgb(196, 201, 210);
-    border-radius: 1rem;
+.block-element {
+    background-color: lime;
+    margin: 10px;
+    padding: 20px;
 }
